@@ -7,6 +7,8 @@ Tables includes:
 4. course_material_info
 5. enrollment_info
 
+![Online course management system](https://github.com/user-attachments/assets/b3a751b1-6554-4de3-89ed-0027dc109ac2)
+
 Main meun:
 1. Add
 2. Update
