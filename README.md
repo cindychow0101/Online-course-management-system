@@ -1,6 +1,6 @@
 # Online Course Management System
 
-Tables includes:
+Tables include:
 1. student_info
 2. instructor_info
 3. course_info
@@ -9,18 +9,19 @@ Tables includes:
 
 ![Online course management system](https://github.com/user-attachments/assets/b3a751b1-6554-4de3-89ed-0027dc109ac2)
 
-Main meun:
+Main menu:
 1. Add
 2. Update
 3. View and search
 4. Delete data
-5. Export to csv file
+5. Export to CSV file
 6. Exit
 
 Initially, users can choose one of the options from the main meun.
 Choosing 1-4, will requires choice of data you would like to manage.
 
 For instance, if 1. Add is chosen.
+
 Add Operations:
 1. Add Student
 2. Add Instructor
@@ -28,9 +29,11 @@ Add Operations:
 4. Add Course Material
 5. Add Enrollment
 
-Then, users can choose one of the options from the add operations.
-It is similar for choices (1-4) in the main meun.
+<img width="202" alt="螢幕截圖 2024-08-28 下午3 48 57" src="https://github.com/user-attachments/assets/3ac54b40-6469-4316-92a5-b8436d19346b">
 
-Choosing 5. Export to csv file, all data in the database will be export to a csv file in a desired location.
+Then, users can choose one of the options from the add operations.
+It is similar to choices (1-4) in the main menu.
+
+Choosing 5. Export to CSV file, all data in the database will be exported to a CSV file in a desired location.
 
 Finally, if all the work is completed, users can choose 6. Exit to exit the system.
