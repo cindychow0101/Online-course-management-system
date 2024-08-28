@@ -17,8 +17,8 @@ Main menu:
 5. Export to CSV file
 6. Exit
 
-Initially, users can choose one of the options from the main meun.
-Choosing 1-4, will requires choice of data you would like to manage.
+Initially, users can choose one of the options from the main menu.
+Choosing 1-4 will require choosing the data you would like to manage.
 
 For instance, if 1. Add is chosen.
 
