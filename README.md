@@ -22,13 +22,6 @@ Choosing 1-4, will requires choice of data you would like to manage.
 
 For instance, if 1. Add is chosen.
 
-Add Operations:
-1. Add Student
-2. Add Instructor
-3. Add Course
-4. Add Course Material
-5. Add Enrollment
-
 <img width="202" alt="螢幕截圖 2024-08-28 下午3 48 57" src="https://github.com/user-attachments/assets/3ac54b40-6469-4316-92a5-b8436d19346b">
 
 Then, users can choose one of the options from the add operations.
