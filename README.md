@@ -1,21 +1,20 @@
 # Online Course Management System
 
-Tables include:
-1. student_info
-2. instructor_info
-3. course_info
-4. course_material_info
-5. enrollment_info
+### The online course management system is used for data storage, including information of student, instructor, course, course material, and enrollment.
+
+### Users can add, update, view, delete, and export data form the database by using this system.
+
+## Tables
+
+In the database, there are 5 tables included and their relationships are shown below:
 
 ![Online course management system](https://github.com/user-attachments/assets/b3a751b1-6554-4de3-89ed-0027dc109ac2)
 
-Main menu:
-1. Add
-2. Update
-3. View and search
-4. Delete data
-5. Export to CSV file
-6. Exit
+## Main menu
+
+In the main menu, there are 6 choices. 
+
+<img width="188" alt="螢幕截圖 2024-08-29 上午11 10 35" src="https://github.com/user-attachments/assets/530f8f32-7869-4c9c-9f3c-807768cafdb7">
 
 Initially, users can choose one of the options from the main menu.
 Choosing 1-4 will require choosing the data you would like to manage.
