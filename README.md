@@ -23,3 +23,5 @@ In the main menu, there are 6 choices.
 #### Delete: Course Material, Enrollment History
 #### Export to CSV file
 #### Exit
+
+Choosing from 1-6 and entering required information can return a desired result.
