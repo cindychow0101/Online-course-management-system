@@ -16,7 +16,7 @@ In the main menu, there are 6 choices.
 
 <img width="188" alt="螢幕截圖 2024-08-29 上午11 10 35" src="https://github.com/user-attachments/assets/530f8f32-7869-4c9c-9f3c-807768cafdb7">
 
-### Functions
+#### Functions:
 #### Add: Student, Instructor, Course, Course Material, Enrollment
 #### Update: Student, Instructor, Course, Course Material, Grade
 #### View and search: View Enrollment History, View Course Material, Search Records
