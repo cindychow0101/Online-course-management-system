@@ -11,7 +11,7 @@ The Online Course Management System is a system that utilizes SQLite as its data
 - **User-Friendly Interface**: Command-line interface for easy navigation and operation.
 
 ## Database Schema
-![Online course management system](https://github.com/user-attachments/assets/b3a751b1-6554-4de3-89ed-0027dc109ac2)
+![Schema](/images/schema.png)
 
 ## Usage
 
