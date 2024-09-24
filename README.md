@@ -1,27 +1,33 @@
 # Online Course Management System
 
-### The online course management system is used for data storage, including information of student, instructor, course, course material, and enrollment.
+## Overview
+The Online Course Management System is a system that utilizes SQLite as its database to manage course-related data. This system allows for the management of students, instructors, courses, course materials, and enrollments. It provides functionalities to add, update, view, search, and delete records, as well as export data to CSV files.
 
-### Users can add, update, view, delete, and export data form the database by using this system.
+## Features 
+- **Database Management**: Automatically creates the necessary tables for students, instructors, courses, course materials, and enrollments.
+- **CRUD Operations**: Perform Create, Read, Update, and Delete operations on all entities.
+- **Search Functionality**: Search records across various tables based on specified criteria.
+- **Data Export**: Export all course-related data into a CSV format for easy access and sharing.
+- **User-Friendly Interface**: Command-line interface for easy navigation and operation.
 
-## Tables
-
-In the database, there are 5 tables included and their relationships are shown below:
-
+## Database Schema
 ![Online course management system](https://github.com/user-attachments/assets/b3a751b1-6554-4de3-89ed-0027dc109ac2)
 
-## Main menu
+## Usage
 
-In the main menu, there are 6 choices. 
+Once the system is running, you will see a main menu with the following options:
 
-<img width="188" alt="螢幕截圖 2024-08-29 上午11 10 35" src="https://github.com/user-attachments/assets/530f8f32-7869-4c9c-9f3c-807768cafdb7">
+1. **Add**: Add new students, instructors, courses, course materials, or enrollments.
+2. **Update**: Update existing records for students, instructors, courses, course materials, or grades.
+3. **View or Search**: View enrollment history, course materials, or search records based on specified criteria.
+4. **Delete**: Delete course materials or enrollment records.
+5. **Export to CSV File**: Export all data from the database to a CSV file.
+6. **Exit**: Terminate the application.
 
-#### Functions:
-#### Add: Student, Instructor, Course, Course Material, Enrollment
-#### Update: Student, Instructor, Course, Course Material, Grade
-#### View and search: View Enrollment History, View Course Material, Search Records
-#### Delete: Course Material, Enrollment History
-#### Export to CSV file
-#### Exit
+## Command-Line Interface
 
-Choosing from 1-6 and entering required information can return a desired result.
+The system uses a command-line interface for interaction. Here’s how you can navigate through the options:
+
+- **Choose an option** by entering the corresponding number (1-6) and pressing Enter.
+- Follow the prompts for additional input when adding or updating records.
+- Use the appropriate commands to perform the desired operations.
