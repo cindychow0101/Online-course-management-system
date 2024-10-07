@@ -1,7 +1,7 @@
 # Online Course Management System
 
 ## Overview
-The Online Course Management System is a system that utilizes SQLite as its database to manage course-related data. This system allows for the management of students, instructors, courses, course materials, and enrollments. It provides functionalities to add, update, view, search, and delete records, as well as export data to CSV files.
+The Online Course Management System uses SQLite as its database to handle all course-related information. It helps manage students, instructors, courses, course materials, and enrollments. The system allows users to add, update, view, search for, and delete records, and users can also export data to CSV files.
 
 ## Features 
 - **Database Management**: Automatically creates the necessary tables for students, instructors, courses, course materials, and enrollments.
